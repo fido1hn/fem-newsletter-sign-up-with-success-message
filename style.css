@@ -14,19 +14,17 @@ body {
   background-color: hsl(235, 18%, 26%);
   font-size: 1.6rem;
   font-weight: 400;
-}
-
-/* main {
   height: 100vh;
-  padding: 2rem;
-} */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .sign-up {
   display: flex;
   background-color: #fff;
   align-items: center;
   justify-content: space-between;
-
   width: 100%;
   max-width: 92.8rem;
   height: 64.1rem;
